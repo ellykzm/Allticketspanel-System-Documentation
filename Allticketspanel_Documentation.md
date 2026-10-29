@@ -258,6 +258,3 @@ Requirements for the host:
 | Model row vs view row | Index in the data model vs. index as displayed; they differ when the table is sorted |
 | Callback | The `Consumer<Ticket>` supplied by the host to handle ticket selection |
 
----
-
-*Scope note: this document is based solely on `Allticketspanel.java`. Behavior of the referenced classes (`Ticketrepository`, `Tickettablemodel`, `Uitheme`, `Recentticketpanel.configureTable`, and others) is inferred from how they are used here and should be confirmed against their own source.*
